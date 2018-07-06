@@ -1,5 +1,5 @@
 const express=require('express');
-const bodyParser=require('body_parser');
+const bodyParser=require('body-parser');
 const request=require('request');
 const app=express();
 // set port tolisten
